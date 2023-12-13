@@ -32,3 +32,16 @@
 * [Journal of the
 AUDIO ENGINEERING SOCIETY](https://www.aes.org/journal/online/JAES_V71/6/JAES_V71_6_PG403.pdf)
 Deadline: Nov. 6, 2023
+
+* [Journal: Organized Sound](https://www.cambridge.org/core/journals/organised-sound/announcements/call-for-papers/call-more-than-human-more-than-music)
+Deadline: Jan. 15, 2024
+
+* [International Conference on Live Coding](https://iclc.toplap.org/2024/index.html)
+Deadline: Jan. 15, 2024 for submissions of papers, performances and workshops
+
+* [MOCO2024](https://www.movementcomputing.org/moco24-call-for-papers/)
+Deadline: Jan. 15, 2024
+
+* [NIME2024](https://www.nime2024.org/)
+Deadline: Jan. 30, 2024 for paper submission
+
