@@ -28,7 +28,6 @@
 
 # Sharing Opportunities
 
-## An interesting spatial audio special issue
 * [Journal of the
 AUDIO ENGINEERING SOCIETY](https://www.aes.org/journal/online/JAES_V71/6/JAES_V71_6_PG403.pdf)
 Deadline: Nov. 6, 2023
